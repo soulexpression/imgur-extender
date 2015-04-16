@@ -7,7 +7,7 @@ $(function() {
 		settings.show();
 		legal.hide();
 		credits.hide();
-		
+
 		$("#settingsButton").addClass("selected");
 		$("#legalButton").removeClass("selected");
 		$("#creditsButton").removeClass("selected");
